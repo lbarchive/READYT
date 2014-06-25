@@ -112,9 +112,11 @@ Feedback
 There are a few ways to give me your feedback or ask me questions:
 
 * YouTube Discussion_ tab
+* `General Discussions`_ Issue
 * Other contact_ methods
 * `Open an issue`_: comments, suggestions, or questions are all welcome
 
 .. _Discussion: https://www.youtube.com/user/livibetter/discussion
+.. _General Discussions: https://github.com/livibetter/READYT/issues/1
 .. _contact: http://s.yjl.im/contact
 .. _Open an issue: CONTRIBUTING.rst_
