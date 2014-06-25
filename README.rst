@@ -119,4 +119,4 @@ There are a few ways to give me your feedback or ask me questions:
 .. _Discussion: https://www.youtube.com/user/livibetter/discussion
 .. _General Discussions: https://github.com/livibetter/READYT/issues/1
 .. _contact: http://s.yjl.im/contact
-.. _Open an issue: CONTRIBUTING.rst_
+.. _Open an issue: CONTRIBUTING.rst
