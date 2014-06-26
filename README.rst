@@ -120,3 +120,11 @@ There are a few ways to give me your feedback or ask me questions:
 .. _General Discussions: https://github.com/livibetter/READYT/issues/1
 .. _contact: http://s.yjl.im/contact
 .. _Open an issue: CONTRIBUTING.rst
+
+
+Copyright
+=========
+
+The contents in Git respository has been placed in the public domain via the Unlicense_.
+
+.. _Unlicense: UNLICENSE
