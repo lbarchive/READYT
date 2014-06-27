@@ -2,6 +2,8 @@
 ``READYT``
 ==========
 
+.. figure:: trailer/trailer.png
+
 This repository has everything I want to put into my YouTube_ About_ page, which unfortunately has characters limit and can't really have good formatting. This is not only serving as ``README``, also for logs and communications as alternative comment place.
 
 .. _YouTube: https://www.youtube.com/user/livibetter
