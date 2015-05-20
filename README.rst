@@ -108,6 +108,17 @@ Labeling
     Nothing is done future, I probably don't thing it's good idea to make a video or write a post. This could happen a lot, but it doesn't necessarily mean the projects are bad.
 
 
+FAQ
+===
+
+What's the font?
+----------------
+
+It's `Envy Code R`_ Preview #7.2 by Damien Guard.
+
+.. _Envy Code R: http://damieng.com/blog/tag/envy-code-r
+
+
 Feedback
 ========
 
@@ -127,6 +138,6 @@ There are a few ways to give me your feedback or ask me questions:
 Copyright
 =========
 
-The contents in Git respository has been placed in the public domain via the Unlicense_.
+The contents in Git repository has been placed in the public domain via the Unlicense_.
 
 .. _Unlicense: UNLICENSE
