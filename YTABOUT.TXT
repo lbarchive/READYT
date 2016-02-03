@@ -1,6 +1,6 @@
-READYT by Yu-Jie Lin
+Yu-Jie Lin (formerly READYT)
 
-A command-line (CLI) lover who wants you to READ on YouTube, so expecting most of videos are recordings of terminal window and information written in description boxes.
+This is a personal channel by a command-line (CLI) lover who wants you to READ on YouTube, so expecting most of videos are recordings of terminal window and information written in description boxes.
 
 My videos are meant for a glance of the subject, they would be:
 
