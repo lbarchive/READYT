@@ -1,0 +1,5 @@
+READYT by Yu-Jie Lin
+
+A command-line (CLI) lover who wants you to READ on YouTube, so expecting most of videos are recordings of terminal window and information written in description boxes.
+
+Due to characters limit in this About page, you can read about my channel and find ways to give feedback on GitHub, just click the "READYT" in the links section below. You can also communicate with me there, suggest something or ask questions.
