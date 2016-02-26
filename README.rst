@@ -4,12 +4,12 @@ Yu-Jie Lin (formerly ``READYT``)
 
 .. figure:: trailer/trailer.png
 
-This repository is for my YouTube_ channel, it has everything I want to put into my YouTube_ About_ page, which unfortunately has characters limit and can't really have good formatting. This is not only serving as ``README``, also for logs and communications as alternative comment place.
+This repository was originally for my YouTube_ channel, now for Dailymotion_
+channel since 2016-02-15.
 
 .. _YouTube: https://www.youtube.com/user/livibetter
+.. _Dailymotion: http://www.dailymotion.com/livibetter
 .. _About: https://www.youtube.com/user/livibetter/about
-
-I'm a command-line (CLI) lover, so expecting most of videos are recordings of terminal window, but I do more than that.
 
 If you know any good programs or have ideas for the channel, not limited to CLI, please feel free to send me any information or links using `feedback`_.
 
@@ -17,8 +17,16 @@ If you know any good programs or have ideas for the channel, not limited to CLI,
    :local:
 
 
-About my YouTube videos
-=======================
+About me
+========
+
+My name is `Yu-Jie Lin`_ and I'm a command-line (CLI) lover, so expecting most of videos are recordings of terminal window, but I do more than that.
+
+.. _Yu-Jie Lin: http://yjl.im
+
+
+About my videos
+===============
 
 What to expect
 --------------
@@ -44,18 +52,6 @@ How long and how many?
 Many are less than one minute, and I would probably upload two a day or even less. But don't count on that, if there is a reason to have ten, then I will upload that many.
 
 
-More than videos?
------------------
-
-`My blog`_ is sort of text version of my YouTube channel, I will blog about programs there, but I'd not blog and make video for same subject, unless it's really necessary.
-
-.. _My blog: http://blog.yjl.im
-
-If it's better to introduce using video, then YouTube is. If it's better using text, then my blog. You could `subscribe to the blog`__ for updates.
-
-__ http://blog.yjl.im/p/about.html#subscription
-
-
 FAQ
 ===
 
@@ -70,7 +66,7 @@ It's `Envy Code R`_ Preview #7.2 by Damien Guard.
 Why ``READYT``
 --------------
 
-Because you need to read the description box of my videos. My YouTube video = *video* + *description*.
+Because you need to read the description box of my videos. My video = *video* + *description*.
 
 ``READYT`` was former name of my channel, now it's considered as a codename since February, 2016.
 
@@ -80,24 +76,10 @@ Feedback
 
 There are a few ways to give me your feedback or ask me questions:
 
-* YouTube Discussion_ tab
-* `General Discussions`_ Issue
-* Other contact_ methods:
-
-  * livibetter@gmail.com
-  * `@lyjl`_
-  * `fb.me/livibetter`_
-  * `+YuJieLin`_
-
-  .. _contact: http://www.yjl.im/contact
-  .. _@lyjl: https://twitter.com/lyjl
-  .. _fb.me/livibetter: https://fb.me/livibetter
-  .. _+YuJieLin: https://plus.google.com/+YuJieLin
-
+* Contact_ methods, or
 * `Open an issue`_: comments, suggestions, or questions are all welcome
 
-.. _Discussion: https://www.youtube.com/user/livibetter/discussion
-.. _General Discussions: https://github.com/livibetter/READYT/issues/1
+.. _contact: http://www.yjl.im/contact
 .. _Open an issue: CONTRIBUTING.rst
 
 
