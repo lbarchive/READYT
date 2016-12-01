@@ -1,0 +1,46 @@
+
+
+                                    SKIPS
+
+
+                     CREATED      BY Yu-Jie Lin
+                                  AT 2016-12-01T03:05:50Z
+                     LAST UPDATED AT -
+
+                     PLACED   IN    THE PUBLIC DOMAIN  OR
+                     LICENSED UNDER THE UNLICENSE LICENSE
+
+
+                                 DESCRIPTION
+
+
+This file notes projects that I like but not suitable to fit into my channel.
+They are kept in following sections, newest first, with my thoughts and
+noting date. I may or may not have actually use them.
+
+
+                            NeOleo (GNU Oleo fork)
+
+            Lightweight curses/Motif spreadsheet based on GNU oleo
+
+                By Mark Carter (blippy, forker) / Under GPLv2
+
+                             2016-12-01T03:11:04Z
+
+
+NeOleo [1] is a fork of GNU Oleo [2], which was last released in 2001 (Version
+1.99.16). The most apparent difference between Oleo and other spreadsheet
+programs is the cell references, which are in the format of `R#C#`, clearly short for "Row" and "Column."
+
+[1] https://github.com/blippy/neoleo
+[2] https://en.wikipedia.org/wiki/GNU_Oleo
+
+It has different parsing patterns for the cell contents, it's required to
+quote the text content seemingly. Oleo is quite unusual to users who are used
+to Excel-like spreadsheet. And there seems to be a concept of programming [1]
+by the use of cells.
+
+[1] http://www.delorie.com/gnu/docs/oleo/oleo_77.html
+
+As for NeOleo, its latest version is 3.0.1 (2016-11-29), supporting ncurses
+and Motif+Xbae (grid widget) interfaces.
