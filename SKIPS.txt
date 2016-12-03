@@ -19,6 +19,40 @@ They are kept in following sections, newest first, with my thoughts and
 noting date. I may or may not have actually use them.
 
 
+                                  shellfuncs
+
+      Import and execution of shell script functions from Python script
+
+                          By Timo Furrer / Under MIT
+
+                             2016-12-03T00:55:20Z
+
+
+Why would anyone do that? The author of shellfuncs [1] gives three reasons:
+
+- use existing shell scripts in a pythonic way
+- complex piping stuff might be easier to implement in shell script
+- testing shell scripts is a pain in the a** - with Python it'll be easier
+
+[1] https://github.com/timofurrer/shellfuncs
+
+I can't say that those are good reasons when you somehow want to mix Python 
+and shell scripts. It's the same as mixing Python with any other languages 
+requiring an interpretor.
+
+Anyway, it's still amazing to see that you can do that just because you can do 
+that like this:
+
+  import shellfuncs
+
+  from roulettes import russian_roulette
+
+  returncode, stdout, stderr = russian_roulette()
+
+Where `roulettes` actually is a shell script (roulettes.sh) and 
+`russian_roulette` is a shell function from the shell script.
+
+
                             NeOleo (GNU Oleo fork)
 
             Lightweight curses/Motif spreadsheet based on GNU oleo
