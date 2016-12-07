@@ -1,14 +1,7 @@
+2016-12-01        Yu-Jie Lin       Public Domain | UNLICENSE        ----------
 
 
                                     SKIPS
-
-
-                     CREATED      BY Yu-Jie Lin
-                                  AT 2016-12-01T03:05:50Z
-                     LAST UPDATED AT -
-
-                     PLACED   IN    THE PUBLIC DOMAIN  OR
-                     LICENSED UNDER THE UNLICENSE LICENSE
 
 
                                  DESCRIPTION
@@ -17,6 +10,35 @@
 This file notes projects that I like but not suitable to fit into my channel.
 They are kept in following sections, newest first, with my thoughts and
 noting date. I may or may not have actually use them.
+
+
+                      fs-bs (forward-slash, back-slash)
+
+                    experimental console-based art script
+
+                       By Blieque Mariguan / Under MIT
+
+                             2016-12-07T04:03:10Z
+
+
+An interesting tiny script, fs-bs [1], it is kind of like
+
+    A='\/'; for ((i=0;i<COLUMNS*LINES;i++)); do echo -n ${A:RANDOM%2:1}; done
+
+[1] https://github.com/blieque/fs-bs
+
+Only more colorful and a bit different. However, it's unnecessarily requiring 
+more dependencies:
+
+1. Terminess Breathe [1] (a bitmap font) and
+2. 24-bit color supported terminals.
+
+[1] https://github.com/blieque/terminess-breathe
+
+The screenshot [1] doesn't look as if it needs true color, more like a 
+256-color to me, perhaps it's taken with 24-bit-emulated terminal emulator.
+
+[1] https://github.com/blieque/fs-bs/blob/1c7829e/examples.png
 
 
                                   shellfuncs
