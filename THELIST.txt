@@ -1,0 +1,48 @@
+2016-12-08        Yu-Jie Lin       Public Domain | UNLICENSE        ----------
+
+
+                                   THE LIST
+
+
+This file lists projects that I've actually used after discovering them. The 
+reason of having this list is sometimes when someone comments on my videos, 
+I've got a feeling that they think I do use them on daily basis.
+
+Of course not possible, I've more than a thousand of videos, there is no way, 
+not ever a small portion, that I do use them all.
+
+Nonetheless, I do pick up a few, so here is the list with the dates of first 
+uses or video published date, links, and short notes.
+
+- 2010-12-07 Bashrun: X11 program launcher
+  http://bashrun.sourceforge.net/
+  https://www.youtube.com/watch?v=KPuLjKXczFw
+
+    I use version 0.16.1, not the Bashrun2, which is over complicated to my 
+    liking.
+
+- 2014-02-22 qfi: fast access to files and directories
+  https://github.com/ooesili/qfi
+  https://www.youtube.com/watch?v=zQy8Bjr2yKg
+
+    Replaced my own g script (Bash).
+
+- 2015-01-07 hstr: Bash and Zsh shell history suggest box
+  https://github.com/dvorka/hstr
+  https://www.youtube.com/watch?v=Qx5n_5B5xUw
+
+    Replaced Bash's [Ctrl+R].
+
+- 2015-08-25 wave: sampled sine wave to stdout
+  https://github.com/efferifick/wave
+  https://www.youtube.com/watch?v=xgoW4BzQEtk
+
+    Replaced notifying beep wave file [1].
+
+    [1] https://github.com/livibetter/dotfiles/commit/39bd18a
+
+- 2016-09-02 ncpamixer: ncurses PulseAudio Mixer
+  https://github.com/fulhax/ncpamixer
+  https://www.youtube.com/watch?v=v54QLfc1dCg
+
+    Replaced PulseAudio's pavucontrol.
