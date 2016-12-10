@@ -41,6 +41,30 @@ The screenshot [1] doesn't look as if it needs true color, more like a
 [1] https://github.com/blieque/fs-bs/blob/1c7829e/examples.png
 
 
+                             Floating Point Hacks
+
+            Computing some floating points using 8th grade algebra
+
+                         By Lee Gao / C++ / Under MIT
+
+                             2016-12-10T05:01:55Z
+
+floathacks [1] does the computations using fast inverse root method [2]:
+
+1. rational powers (x^{a/b}) to an arbitrary precision.
+2. irrational powers (x%c) to within 10% relative error.
+3. exp(x) to within 10% relative error.
+4. log(x) to within 10% relative error.
+
+[1] https://github.com/leegao/float-hacks
+[2] https://en.wikipedia.org/wiki/Fast_inverse_square_root
+
+You might want to read about this magic constant 0x5f3759df [1].
+
+[1] http://www.bullshitmath.lol/FastRoot.slides.html
+
+
+
                                   shellfuncs
 
       Import and execution of shell script functions from Python script
