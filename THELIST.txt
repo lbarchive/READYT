@@ -1,4 +1,4 @@
-2016-12-08        Yu-Jie Lin       Public Domain | UNLICENSE        ----------
+2016-12-08        Yu-Jie Lin       Public Domain | UNLICENSE        2016-12-10
 
 
                                    THE LIST
@@ -26,6 +26,13 @@ uses or video published date, links, and short notes.
   https://www.youtube.com/watch?v=zQy8Bjr2yKg
 
     Replaced my own g script (Bash).
+
+- 2014-08-20 e.bash: tiny expression evaluator
+  https://bitbucket.org/grandpas/e.bash
+  https://www.youtube.com/watch?v=D8vEUcuC2gw
+
+    e.bash is my own fork of e (read History in project README). It's a 
+    command-line calculator as normal command and Bash loadable builtin.
 
 - 2015-01-07 hstr: Bash and Zsh shell history suggest box
   https://github.com/dvorka/hstr
