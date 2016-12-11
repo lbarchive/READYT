@@ -12,6 +12,62 @@ They are kept in following sections, newest first, with my thoughts and
 noting date. I may or may not have actually use them.
 
 
+                                Zombies on Ice
+
+                Arcade game for Ludum Dare 37 Compo submission
+
+        Egon Elbre / Go / Windows, Linux, Mac OS X / MIT or UNLICENSE
+
+                             2016-12-13T12:50:08Z
+
+
+Shoulda been "Relatives on Ice" for family gathering on holidays, if only you 
+can swap zombies with your relatives to smack with gigantic hammer, this would 
+be a more popular.
+
+
+                                   GOvatar
+
+                          Pixelated avatar generator
+
+                     By Oleg Lobanov / In Go / Under MIT
+
+                             2016-12-13T05:45:31Z
+
+
+GOvatar [1] generates male or female avatar, big head with shaded background.
+
+[1] https://github.com/o1egl/govatar
+
+
+                                   binstale
+
+                       Go binaries stale or up-to-date
+
+                   By Dmitri Shuralyov / In Go / Under MIT
+
+                             2016-12-12T02:35:44Z
+
+
+               binstale [1] checks if binaries are up to date.
+
+                   [1] https://github.com/shurcooL/binstale
+
+
+
+                                     khal
+
+                           CLI calendar application
+
+          By Christian Geier, et al / In Python 3 / Under Expat/MIT
+
+                             2016-12-11T23:42:44Z
+
+khal [1] looks pretty good, colors, event lists. 
+
+[1] https://github.com/pimutils/khal https://lostpackets.de/khal/
+
+
                       fs-bs (forward-slash, back-slash)
 
                     experimental console-based art script
