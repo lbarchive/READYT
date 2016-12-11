@@ -14,13 +14,6 @@ not ever a small portion, that I do use them all.
 Nonetheless, I do pick up a few, so here is the list with the dates of first 
 uses or video published date, links, and short notes.
 
-- 2010-12-07 Bashrun: X11 program launcher
-  http://bashrun.sourceforge.net/
-  https://www.youtube.com/watch?v=KPuLjKXczFw
-
-    I use version 0.16.1, not the Bashrun2, which is over complicated to my 
-    liking.
-
 - 2014-02-22 qfi: fast access to files and directories
   https://github.com/ooesili/qfi
   https://www.youtube.com/watch?v=zQy8Bjr2yKg
