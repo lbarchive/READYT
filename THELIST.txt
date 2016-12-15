@@ -1,4 +1,4 @@
-2016-12-08        Yu-Jie Lin       Public Domain | UNLICENSE        2016-12-10
+2016-12-08        Yu-Jie Lin       Public Domain | UNLICENSE        2016-12-15
 
 
                                    THE LIST
@@ -20,6 +20,13 @@ https://www.youtube.com/watch?v=zQy8Bjr2yKg
 2014-02-22
 
     Replaced my own g script (Bash).
+
+Delay: countdown timer with human-readable formats
+http://onegeek.org/~tom/software/delay/
+https://www.youtube.com/watch?v=JDCMvWz9EOQ
+2014-02-27
+
+    Replaced the sleep command.
 
 e.bash: tiny expression evaluator
 https://bitbucket.org/grandpas/e.bash
