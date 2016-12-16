@@ -99,7 +99,7 @@ There are a few ways to give me your feedback or ask me questions:
 Copyright
 =========
 
-The contents in repository has been placed in the public domain via the
-Unlicense_.
+CC0_ has been applied to all works in READYT_, unless stated otherwise.
 
-.. _Unlicense: UNLICENSE
+.. _CC0: COPYING
+.. _READYT: https://github.com/livibetter/READYT

@@ -31,4 +31,6 @@ For any bugs, you should file a bug report on project's tracker, that's the only
 Pull requests
 =============
 
-Upon creating a pull request, you agree to put your contribution in *public domain*.
+Upon creating a pull request, you agree to apply CC0_ to your contribution.
+
+.. _CC0: COPYING
