@@ -4,6 +4,21 @@
                                   Wish List
 
 
-2016-12-12 Christmas Lights in terminal
+Everything is wished to work in terminal unless state otherwise.
+
+
+2016-12-12 Christmas Lights
 
     Lights overlay terminal screen, blinking in colors.
+
+2016-12-19 Kaleidoscope
+
+    Like toy kaleidoscope [1] tube, not using image inputs, but simulating the
+    toy, which has tainted pieces of glass inside.
+
+    [1] https://en.wikipedia.org/wiki/Kaleidoscope
+
+2016-12-24 Falling Snow with ASCII-art Snowflakes
+
+    All the Falling Snows that I have seen are using ASCII * or Unicode
+    characters, it's fine, but ASCII-art snowflakes would look more ASCIIsh.
