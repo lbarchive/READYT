@@ -7,6 +7,10 @@
 Everything is wished to work in terminal unless state otherwise.
 
 
+2017-01-08 Simple Desktop Calculator with Mouse Support
+
+    Just +-*/ would be enough, full-screen, big buttons.
+
 2016-12-12 Christmas Lights
 
     Lights overlay terminal screen, blinking in colors.
